@@ -4,6 +4,7 @@ addons.cdn.mozilla.net
 addons-discovery.cdn.mozilla.net
 aus5.mozilla.org
 blocklist.addons.mozilla.org
+blocklists.settings.services.mozilla.com
 detectportal.firefox.com
 discovery.addons.mozilla.org
 firefox.settings.services.mozilla.com
@@ -18,4 +19,5 @@ versioncheck-bg.addons.mozilla.org
 
 safebrowsing-cache.google.com
 safebrowsing.google.com
+safebrowsing.googleapis.com
 www.google-analytics.com
