@@ -8,11 +8,13 @@ blocklists.settings.services.mozilla.com
 detectportal.firefox.com
 discovery.addons.mozilla.org
 firefox.settings.services.mozilla.com
+search.services.mozilla.com
 self-repair.mozilla.org
 services.addons.mozilla.org
 shavar.services.mozilla.com
 tiles-cloudfront.cdn.mozilla.net
 tiles.services.mozilla.com
+tracking-protection.cdn.mozilla.net
 versioncheck-bg.addons.mozilla.org
 
 # Google
