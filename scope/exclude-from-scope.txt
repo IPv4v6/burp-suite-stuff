@@ -5,9 +5,14 @@ addons-discovery.cdn.mozilla.net
 aus5.mozilla.org
 blocklist.addons.mozilla.org
 blocklists.settings.services.mozilla.com
+classify-client.services.mozilla.com
+content-signature-2.cdn.mozilla.net
 detectportal.firefox.com
 discovery.addons.mozilla.org
+firefox-settings-attachments.cdn.mozilla.net
 firefox.settings.services.mozilla.com
+normandy.cdn.mozilla.net
+push.services.mozilla.com
 search.services.mozilla.com
 self-repair.mozilla.org
 services.addons.mozilla.org
