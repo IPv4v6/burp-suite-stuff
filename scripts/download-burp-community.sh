@@ -3,9 +3,9 @@
 set -e
 set -u
 
-VERSION="2022.9.2"
+VERSION="2022.11.1"
 FILE="burpsuite_community_linux_v${VERSION}.sh"
-SHA256="89a991822d667ad631ac07ce2b1fc05dd2f452f6ac23961357b8a44a314e2e7d"
+SHA256="da5edd9693380f2bb17dff442abaff75309abee3e4faa4874d77350d6d7a7dc8"
 
 curl -R -o ${FILE} \
 "https://portswigger.net/burp/releases/download?product=community&version=${VERSION}&type=linux"
