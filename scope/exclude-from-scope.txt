@@ -7,6 +7,7 @@ blocklist.addons.mozilla.org
 blocklists.settings.services.mozilla.com
 classify-client.services.mozilla.com
 content-signature-2.cdn.mozilla.net
+contile.services.mozilla.com
 detectportal.firefox.com
 discovery.addons.mozilla.org
 firefox-settings-attachments.cdn.mozilla.net
