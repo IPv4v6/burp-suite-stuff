@@ -2,6 +2,8 @@
 
 addons.cdn.mozilla.net
 addons-discovery.cdn.mozilla.net
+addons.mozilla.org
+ads.mozilla.org
 aus5.mozilla.org
 blocklist.addons.mozilla.org
 blocklists.settings.services.mozilla.com
