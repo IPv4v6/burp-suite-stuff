@@ -14,6 +14,7 @@ detectportal.firefox.com
 discovery.addons.mozilla.org
 firefox-settings-attachments.cdn.mozilla.net
 firefox.settings.services.mozilla.com
+location.services.mozilla.com
 normandy.cdn.mozilla.net
 push.services.mozilla.com
 search.services.mozilla.com
