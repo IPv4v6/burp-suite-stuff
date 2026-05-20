@@ -3,10 +3,10 @@
 set -e
 set -u
 
-VERSION="2026.2.2"
-FILE="burpsuite_community_linux_v${VERSION}.sh"
-SHA256="659761f640e9da5012cd45aaf5cc1d3d728dcabe8e6611b1c9bf7f6fac134d66"
+VERSION="2026.4.3"
+FILE="burpsuite_linux_v${VERSION}.sh"
+SHA256="1ce4fa3849b93fd46e115c4197e66e5b7bbd859ce7c031b567dcf525b9e2e204"
 
 curl -R -o ${FILE} \
-"https://portswigger.net/burp/releases/download?product=community&version=${VERSION}&type=linux"
+"https://portswigger.net/burp/releases/download?product=desktop&version=${VERSION}&type=linux"
 echo "${SHA256} ${FILE}" | sha256sum -c -
