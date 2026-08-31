@@ -3,9 +3,9 @@
 set -e
 set -u
 
-VERSION="2026.4.3"
+VERSION="2026.8"
 FILE="burpsuite_linux_v${VERSION}.sh"
-SHA256="1ce4fa3849b93fd46e115c4197e66e5b7bbd859ce7c031b567dcf525b9e2e204"
+SHA256="a9b71d5903e4aac00b790a7c5a0c0630fdcbfe1250aafd7bd540a3ad44b89983"
 
 curl -R -o ${FILE} \
 "https://portswigger.net/burp/releases/download?product=desktop&version=${VERSION}&type=linux"
